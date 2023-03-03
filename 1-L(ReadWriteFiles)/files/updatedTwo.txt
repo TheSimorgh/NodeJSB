@@ -1,0 +1,5 @@
+Hello Node WriteFile
+
+ YES Append Node WriteFile
+
+ YES Append Node WriteFile

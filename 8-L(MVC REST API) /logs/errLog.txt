@@ -1,0 +1,1 @@
+16022023	19:05:43	42a1db0b-bf92-4f09-bfa8-7110900b6946	Error: Not allowed by CORS
